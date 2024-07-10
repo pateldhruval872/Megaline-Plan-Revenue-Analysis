@@ -1,7 +1,7 @@
 Project Title: Analysis of Revenue from Megaline Prepaid Plans
 Objective: Analyze the behavior of Megaline clients and determine which of the two prepaid plans, Surf or Ultimate, generates more revenue to inform advertising budget adjustments.
 
-Key Responsibilities:
+Key Responsibilities: 
 
 Load and inspect the datasets for calls, internet usage, messages, plans, and users.
 Prepare and clean the data by converting to appropriate data types and handling errors.
